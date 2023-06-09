@@ -1,0 +1,8 @@
+.img-noticia{
+  height: 35%;
+  border: none;
+  object-fit: cover;
+}
+.body-noticia{
+  height: 65%;
+}
